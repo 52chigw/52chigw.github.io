@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-	'52chigw.com/', 
-	'52chigw.com/', 
-    '52chigw.com/',
+	'/', 
+	'/', 
+    '/',
 ];                                                                                                                  
 
 var JumpPage="https://52cgw.net";
