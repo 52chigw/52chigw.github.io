@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'/', 
-	'/', 
-    '/',
+	'irysomdi.cc/', 
+	'irysomdi.cc/', 
+    'irysomdi.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://52cgw.net";
+var JumpPage="https://52cgw1.net";
 
 var newestUrls = [];
 
