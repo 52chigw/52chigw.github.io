@@ -38,11 +38,11 @@ var emails = [
 
 var urls=[
 	'hdajnwpkm.cc/', 
-	'irysomdi.cc/', 
+	'reohqaeo.cc/', 
     'irysomdi.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://52cgw1.net";
+var JumpPage="https://52cgw2.net";
 
 var newestUrls = [];
 
