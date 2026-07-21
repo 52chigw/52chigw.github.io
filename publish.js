@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'ogqbadiny.com/', 
 	'ernpanni.cc/', 
-    'vxsfmilf.cc/',
+    'jnlmbhpgn.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://52cgw2.net";
