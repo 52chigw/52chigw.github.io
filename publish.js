@@ -39,10 +39,10 @@ var emails = [
 var urls=[
 	'ogqbadiny.com/', 
 	'ernpanni.cc/', 
-    'jnlmbhpgn.cc/',
+    'wuiobabn.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://52cgw2.net";
+var JumpPage="https://52cgw4.net";
 
 var newestUrls = [];
 
@@ -55,7 +55,7 @@ var otherUrls = [
 	'https://52chigw.github.io/',
 ];
 var foreverUrls = [
-	  'https://52cgw.net',
+	  'https://52cgw4.net',
 	JumpPage,
 	'https://52chigw.com',
 	
