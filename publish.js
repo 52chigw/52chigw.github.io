@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'uizxwcxyk.cc/', 
 	'qolxwmpyb.cc/', 
-    'buklyjyyd.cc/',
+    'yigghcjo.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://52cgw4.net";
