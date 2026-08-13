@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://52cgw7.net',
 	JumpPage,
-	'',
+	'https://52cgw.net',
 	
 ];
 var notices = [
