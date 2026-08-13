@@ -42,7 +42,7 @@ var urls=[
     'hedtanana.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://52cgw4.net";
+var JumpPage="https://52chigw.com";
 
 var newestUrls = [];
 
@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://52cgw7.net',
 	JumpPage,
-	'https://52chigw.com',
+	'',
 	
 ];
 var notices = [
