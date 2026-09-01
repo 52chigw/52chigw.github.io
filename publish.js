@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'elsfdgte.cc/', 
+	'gaimvujpc.cc/', 
 	'qolxwmpyb.cc/', 
     'ndyxxoipk.com/',
 ];                                                                                                                  
@@ -55,7 +55,7 @@ var otherUrls = [
 	'https://52chigw.github.io/',
 ];
 var foreverUrls = [
-	  'https://52cgw7.net',
+	  'https://52cgw8.net',
 	JumpPage,
 	'https://52cgw.net',
 	
