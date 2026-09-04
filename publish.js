@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'gaimvujpc.cc/', 
 	'qolxwmpyb.cc/', 
-    'ndyxxoipk.com/',
+    'mmrskncxk.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://52chigw.com";
