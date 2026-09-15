@@ -42,7 +42,7 @@ var urls=[
     'mmrskncxk.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://52chigw.com";
+var JumpPage="https://52gua.net/";
 
 var newestUrls = [];
 
