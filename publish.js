@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'svehwdte.com/', 
 	'nnmsuvwn.com/', 
-    'mmrskncxk.cc/',
+    'sswxwiyl.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://52gua.net/";
