@@ -55,7 +55,7 @@ var otherUrls = [
 	'https://52chigw.github.io/',
 ];
 var foreverUrls = [
-	  'https://52cgw8.net',
+	  'https://52cgw9.net',
 	JumpPage,
 	'https://52cgw.net',
 	
