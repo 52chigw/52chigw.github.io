@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'iaxnmcbtr.cc/', 
-	'dqlfyvrhj.cc/', 
-    'sswxwiyl.cc/',
+	'iaxnmcbtr.cc',
+	'dqlfyvrhj.cc',
+	'sswxwiyl.cc',
 ];                                                                                                                  
 
-var JumpPage="https://52gua.net/";
+var JumpPage="https://52cgw10.net";
 
 var newestUrls = [];
 
